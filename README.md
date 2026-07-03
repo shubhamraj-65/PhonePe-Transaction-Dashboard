@@ -2,19 +2,17 @@
 
 ---
 
-## 📸 Dashboard Preview
+### 📸 Dashboard Overview
 
-### Dashboard Overview
-
-![Overview](Images/overview.png)
+![Dashboard Overview](Images/overview.png)
 
 ### Tooltip 1
 
-![Ttooltip 1](Images/tooltip1.png)
+![Tooltip 1](Images/tooltip1.png)
 
 ### Tooltip 2
 
-![Tooltip 2 ](Images/tooltip2.png)
+![Tooltip 2](Images/tooltip2.png)
 
 ---
 
