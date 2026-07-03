@@ -7,20 +7,6 @@
 
 ---
 
-### 📸 Dashboard Overview
-
-![Dashboard Overview](Images/overview.png)
-
-### Tooltip 1
-
-![Tooltip 1](Images/tooltip1.png)
-
-### Tooltip 2
-
-![Tooltip 2](Images/tooltip2.png)
-
----
-
 ## 📌 Project Overview
 
 This project is an interactive Power BI dashboard built to analyze PhonePe transaction data across different states and categories in India. The dashboard provides meaningful business insights using DAX, Power Query, data modeling, and interactive visualizations.
@@ -52,6 +38,21 @@ This project is an interactive Power BI dashboard built to analyze PhonePe trans
 - 📍 Interactive Map Visualization
 - 💡 Custom Tooltips for Better Insights
 - 📉 Business Performance Analysis
+
+---
+
+### 📸 Dashboard Overview
+
+
+![Dashboard Overview](Images/overview.png)
+
+### Tooltip 1
+
+![Tooltip 1](Images/tooltip1.png)
+
+### Tooltip 2
+
+![Tooltip 2](Images/tooltip2.png)
 
 ---
 
@@ -172,3 +173,8 @@ Use filters, slicers and tooltips for insights
 - 👤 Name: Shubham Raj 
 - 📧 Email: shubhamraj.1937@gmail.com  
 - 💻 GitHub: https://github.com/shubhamraj-65
+
+---
+
+# ⭐ If you like this project, give it a star!
+Made with ❤️ using Power BI
