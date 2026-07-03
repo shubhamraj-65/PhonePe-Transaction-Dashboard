@@ -55,6 +55,27 @@ This project is an interactive Power BI dashboard built to analyze PhonePe trans
 
 ---
 
+## 📊 Key Performance Indicators (KPIs)
+
+- 💰 Total Transaction Value analyzed across states
+- 🔢 Total Number of Transactions
+- 📈 Month-over-Month Growth in Transaction Value
+- 📉 Month-over-Month Growth in Transaction Count
+- 🏆 Top Performing States by Transaction Value
+- 📍 Region-wise Distribution of Transactions
+
+---
+
+## 💡 Business Insights
+
+- Major transactions are concentrated in top-performing states.
+- Significant growth trends observed in digital payments adoption.
+- Certain regions show consistent high transaction volume.
+- Seasonal fluctuations impact transaction patterns.
+- Data helps in identifying high-value customer regions.
+
+---
+
 ## 🛠 Tech Stack
 
 - Power BI
