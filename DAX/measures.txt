@@ -1,0 +1,30 @@
+-- 📊 Total Transactions
+Total Transactions = COUNT(Transactions[Transaction_ID])
+
+-- 💰 Total Transaction Value
+Total Transaction Value = SUM(Transactions[Amount])
+
+-- 👥 Total Users
+Total Users = DISTINCTCOUNT(Users[User_ID])
+
+-- ✅ Success Rate
+Success Rate =
+DIVIDE(
+    CALCULATE(COUNT(Transactions[Transaction_ID]), Transactions[Status] = "Success"),
+    COUNT(Transactions[Transaction_ID])
+)
+
+-- ❌ Failed Transactions
+Failed Transactions =
+CALCULATE(COUNT(Transactions[Transaction_ID]), Transactions[Status] = "Failed")
+
+-- 📈 Average Transaction Value
+Avg Transaction Value =
+DIVIDE([Total Transaction Value], [Total Transactions])
+
+-- 📊 MoM Growth
+MoM Growth =
+DIVIDE(
+    [Total Transaction Value] - [Prev Month Value],
+    [Prev Month Value]
+)
