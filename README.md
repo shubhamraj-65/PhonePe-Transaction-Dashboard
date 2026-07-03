@@ -99,9 +99,33 @@ PhonePe-Transaction-Dashboard
 
 ---
 
+## ⚙️ How to Run This Project
+
+1. Clone the repository
+```bash
+git clone https://github.com/shubhamraj-65/PhonePe-Transaction-Dashboard.git
+```
+
+2. Open Power BI file
+```
+Open "PhonePe Transaction Dashboard.pbix" in Power BI Desktop
+```
+
+3. Load dataset if required
+```
+Dataset folder se Excel/CSV file load karein
+```
+
+4. Explore dashboard
+```
+Use filters, slicers and tooltips for insights
+```
+
+---
+
+
 ## 👨‍💻 Author
 
-**Shubham Raj**
-
-LinkedIn:
-www.linkedin.com/in/shubham-raj-6bb8b7273
+- 👤 Name: Shubham Raj 
+- 📧 Email: shubhamraj.1937@gmail.com  
+- 💻 GitHub: https://github.com/shubhamraj-65
