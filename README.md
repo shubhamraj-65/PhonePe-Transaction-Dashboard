@@ -22,6 +22,19 @@ This project is an interactive Power BI dashboard built to analyze PhonePe trans
 
 ---
 
+## 📊 Project Information
+
+| Category | Details |
+|----------|---------|
+| 📌 Project Type | Power BI Dashboard |
+| 📊 Domain | Digital Payments Analytics |
+| 🛠 Tools Used | Power BI, DAX, Power Query |
+| 📂 Dataset | PhonePe Transaction Dataset |
+| 📈 Visualizations | KPI Cards, Maps, Bar Charts, Line Charts, Tree Maps |
+| 🎯 Objective | Analyze transaction trends and provide business insights |
+
+---
+
 ## 🚀 Features
 
 - Interactive Power BI Dashboard
