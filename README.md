@@ -42,15 +42,16 @@ This project is an interactive Power BI dashboard built to analyze PhonePe trans
 
 ## 🚀 Features
 
-- Interactive Power BI Dashboard
-- State-wise Transaction Analysis
-- Transaction Count & Amount Analysis
-- Dynamic KPIs
-- Custom Tooltips
-- Interactive Filters & Slicers
-- DAX Measures
-- Power Query Data Transformation
-- Business Insights
+- 📊 Interactive KPI Cards
+- 🗺️ State-wise Transaction Analysis
+- 💰 Transaction Amount & Count Analysis
+- 📈 Month-over-Month (MoM) Growth Analysis
+- 🎯 Dynamic Filters & Slicers
+- 🧮 Advanced DAX Measures
+- 🔄 Power Query Data Transformation
+- 📍 Interactive Map Visualization
+- 💡 Custom Tooltips for Better Insights
+- 📉 Business Performance Analysis
 
 ---
 
