@@ -6,15 +6,15 @@
 
 ### Dashboard Overview
 
-![Overview](Images/Overview.png)
+![overview](Images/Overview.png)
 
 ### Tooltip 1
 
-![Tooltip 1](Images/Tooltip1.png)
+![tooltip 1](Images/Tooltip1.png)
 
 ### Tooltip 2
 
-![Tooltip 2](Images/Tooltip2.png)
+![tooltip 2](Images/Tooltip2.png)
 
 ---
 
