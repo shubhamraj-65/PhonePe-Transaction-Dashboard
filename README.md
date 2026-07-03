@@ -1,5 +1,23 @@
 # 📈 PhonePe Transaction Dashboard
 
+---
+
+## 📸 Dashboard Preview
+
+### Dashboard Overview
+
+![Overview](Images/Overview.png)
+
+### Tooltip 1
+
+![Tooltip 1](Images/Tooltip1.png)
+
+### Tooltip 2
+
+![Tooltip 2](Images/Tooltip2.png)
+
+---
+
 ## 📌 Project Overview
 
 This project is an interactive Power BI dashboard built to analyze PhonePe transaction data across different states and categories in India. The dashboard provides meaningful business insights using DAX, Power Query, data modeling, and interactive visualizations.
